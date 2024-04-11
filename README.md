@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 
 
 I'm working toward becoming a Java developer
+
+
 I'm looking for work
+
+
 ✨Skill
 Language & PlatForm
 
