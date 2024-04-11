@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ✨Skill
 Language & PlatForm
-Front-End:<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript?style=flat&logo=javascript&logoColor=%23F7DF1E">
+Front-End:[<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript?style=flat&logo=javascript&logoColor=%23F7DF1E">](https://img.shields.io/badge/JavaScript?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 
 
