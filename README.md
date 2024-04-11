@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## 📞 Contact
- <a href="mailto:wonjongah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a></p>
+ <a href="mailto:dongjyum1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a></p>
 
 ## ✨ Skill
 Language & PlatForm
