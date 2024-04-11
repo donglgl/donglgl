@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 ## 📞 Contact
  <a href="mailto:dongjyum1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dongjyum1997@gmail.com"/></a></p>
 
+## Blog
+[NotionBlog](https://www.notion.so/Profil-de4014fda95349608d6ea4ad4acc071f)
+
 ## ✨ Skill
 Language & PlatForm
 
