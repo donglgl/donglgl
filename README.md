@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+✨Skill
+Language & PlatForm
+Front-End:<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript?style=flat&logo=javascript&logoColor=%23F7DF1E">
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donglgl&show_icons=true&theme=radical)
