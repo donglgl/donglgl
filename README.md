@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## 📞 Contact
-<a href="matilto:dongjyum1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="matilto:dongjyum1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
 ## ✨ Skill
 Language & PlatForm
