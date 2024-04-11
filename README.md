@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Donghyun&fontSize=90)
-<a href="matilto:dongjyum1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+
 
 ## 📞 Contact
-
+<a href="matilto:dongjyum1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 ## ✨ Skill
 Language & PlatForm
