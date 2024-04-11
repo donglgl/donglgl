@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 ## 📞 Contact
  <a href="mailto:dongjyum1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dongjyum1997@gmail.com"/></a></p>
 
-## Blog
-<!--[NotionBlog](https://www.notion.so/Profil-de4014fda95349608d6ea4ad4acc071f) -->
 
 ## ✨ Skill
 
@@ -33,5 +31,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
  
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+
+## Blog
+<!--[NotionBlog](https://www.notion.so/Profil-de4014fda95349608d6ea4ad4acc071f) -->
 
 
