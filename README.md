@@ -26,9 +26,7 @@ Language & PlatForm
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 
 
-DB:<img alt="Static Badge" src="https://img.shields.io/badge/mysql-%230000?logo=mysql&logoColor=white&color=%234479A1">
-   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/mysql-%230000?logo=mysql&logoColor=white&color=%234479A1"><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donglgl&show_icons=true&theme=radical)
